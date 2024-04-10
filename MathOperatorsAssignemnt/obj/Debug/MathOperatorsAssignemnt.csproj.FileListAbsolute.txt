@@ -1,0 +1,7 @@
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperatorsAssignemnt\obj\Debug\MathOperatorsAssignemnt.csproj.AssemblyReference.cache
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperatorsAssignemnt\obj\Debug\MathOperatorsAssignemnt.csproj.CoreCompileInputs.cache
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperatorsAssignemnt\bin\Debug\MathOperatorsAssignemnt.exe.config
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperatorsAssignemnt\bin\Debug\MathOperatorsAssignemnt.exe
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperatorsAssignemnt\bin\Debug\MathOperatorsAssignemnt.pdb
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperatorsAssignemnt\obj\Debug\MathOperatorsAssignemnt.exe
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperatorsAssignemnt\obj\Debug\MathOperatorsAssignemnt.pdb
