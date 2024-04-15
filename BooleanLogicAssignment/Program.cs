@@ -17,9 +17,9 @@ namespace BooleanLogicAssignment
             int age = Convert.ToInt32(Console.ReadLine());
             
             //Dui Question
-            Console.Write("Have you ever had a DUI? (yes/no)");
+            Console.Write("Have you ever had a DUI? (true/false)");
             string duiResponse = Console.ReadLine().Trim().ToLower();
-            bool hasDUI = duiResponse == "yes";
+            bool hasDUI = duiResponse == "true";
 
             //Sppeding ticket question
             Console.Write("How many speeding tickets do you have? ");
