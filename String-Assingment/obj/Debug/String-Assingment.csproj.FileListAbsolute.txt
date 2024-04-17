@@ -1,0 +1,7 @@
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\String-Assingment\obj\Debug\String-Assingment.csproj.AssemblyReference.cache
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\String-Assingment\obj\Debug\String-Assingment.csproj.CoreCompileInputs.cache
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\String-Assingment\bin\Debug\String-Assingment.exe.config
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\String-Assingment\bin\Debug\String-Assingment.exe
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\String-Assingment\bin\Debug\String-Assingment.pdb
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\String-Assingment\obj\Debug\String-Assingment.exe
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\String-Assingment\obj\Debug\String-Assingment.pdb
