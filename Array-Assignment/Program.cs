@@ -51,7 +51,7 @@ namespace Array_Assignment
             // Create a list of strings
             var stringList = new System.Collections.Generic.List<string> { "apple", "orange", "banana", "grape" };
             // Prompt the user to select an index of the list
-            Console.WriteLine("Select an index from the list of strings (0-4):");
+            Console.WriteLine("Select an index from the list of strings (0-3):");
             // Read the user input and convert it to integer
             int listIndex = Convert.ToInt32(Console.ReadLine());
             // Check if the selected index is within the bounds of the list
