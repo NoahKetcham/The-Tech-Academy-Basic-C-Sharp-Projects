@@ -1,0 +1,7 @@
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Calling-Methods-Submission-Assignment\bin\Debug\Calling-Methods-Submission-Assignment.exe.config
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Calling-Methods-Submission-Assignment\bin\Debug\Calling-Methods-Submission-Assignment.exe
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Calling-Methods-Submission-Assignment\bin\Debug\Calling-Methods-Submission-Assignment.pdb
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Calling-Methods-Submission-Assignment\obj\Debug\Calling-Methods-Submission-Assignment.csproj.AssemblyReference.cache
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Calling-Methods-Submission-Assignment\obj\Debug\Calling-Methods-Submission-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Calling-Methods-Submission-Assignment\obj\Debug\Calling-Methods-Submission-Assignment.exe
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Calling-Methods-Submission-Assignment\obj\Debug\Calling-Methods-Submission-Assignment.pdb
