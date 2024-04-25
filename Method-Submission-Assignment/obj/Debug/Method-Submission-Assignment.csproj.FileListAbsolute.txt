@@ -1,0 +1,7 @@
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Method-Submission-Assignment\bin\Debug\Method-Submission-Assignment.exe.config
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Method-Submission-Assignment\bin\Debug\Method-Submission-Assignment.exe
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Method-Submission-Assignment\bin\Debug\Method-Submission-Assignment.pdb
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Method-Submission-Assignment\obj\Debug\Method-Submission-Assignment.csproj.AssemblyReference.cache
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Method-Submission-Assignment\obj\Debug\Method-Submission-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Method-Submission-Assignment\obj\Debug\Method-Submission-Assignment.exe
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Method-Submission-Assignment\obj\Debug\Method-Submission-Assignment.pdb
