@@ -15,15 +15,9 @@ class Program
         // Prompt the user for the optional second number
         Console.WriteLine("Enter the second number, or leave blank: ");
         string input = Console.ReadLine();
-        int secondNumber = 10;
 
-        // If the user enters something, parse it to integer
-        if (!string.IsNullOrEmpty(input))
-        {
-            secondNumber = Convert.ToInt32(input);
-        }
+        int secondNumber = string.IsNullOrEmpty(input) ? 5 : Convert.ToInt32(input);
 
-        // Call the AddNumbers method and store the result
         int result = operations.AddNumbers(firstNumber, secondNumber);
 
         // Print the result to the console
