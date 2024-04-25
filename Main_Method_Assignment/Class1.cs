@@ -19,10 +19,10 @@ public class MathOperations
         return (int)(number + 5);
     }
 
-    // Method to convert the users string to an integer by length of the string
+    // Method to convert the users string to an integer, then multiply it
     public int PerformOperation(string text)
     {
-        return text.Length;
+        int number = int.Parse(text);
+        return number * 5;
     }
 }
-
