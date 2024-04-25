@@ -1,14 +1,13 @@
 ﻿using System;
 
-
 class Program
 {
     static void Main(string[] args)
     {
-        // Create an instance of hte MathOperations class
+        // Create an instance of the MathOperations class
         MathOperations operations = new MathOperations();
 
-        // Promt the user for the first number
+        // Prompt the user for the first number
         Console.WriteLine("Enter the first number: ");
         int firstNumber = Convert.ToInt32(Console.ReadLine());
 
@@ -16,9 +15,17 @@ class Program
         Console.WriteLine("Enter the second number, or leave blank: ");
         string input = Console.ReadLine();
 
-        int secondNumber = string.IsNullOrEmpty(input) ? 5 : Convert.ToInt32(input);
+        int result;
 
-        int result = operations.AddNumbers(firstNumber);
+        if (string.IsNullOrEmpty(input))
+        {
+            result = operations.AddNumbers(firstNumber);
+        }
+        else
+        {
+            int secondNumber = Convert.ToInt32(input);
+            result = operations.AddNumbers(firstNumber, secondNumber);
+        }
 
         // Print the result to the console
         Console.WriteLine($"Result: {result}");
@@ -26,4 +33,3 @@ class Program
         Console.ReadLine();
     }
 }
-
