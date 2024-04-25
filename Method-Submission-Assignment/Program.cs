@@ -18,7 +18,7 @@ class Program
 
         int secondNumber = string.IsNullOrEmpty(input) ? 5 : Convert.ToInt32(input);
 
-        int result = operations.AddNumbers(firstNumber, secondNumber);
+        int result = operations.AddNumbers(firstNumber);
 
         // Print the result to the console
         Console.WriteLine($"Result: {result}");
