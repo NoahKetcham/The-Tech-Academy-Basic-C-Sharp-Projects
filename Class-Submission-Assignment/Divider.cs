@@ -16,13 +16,6 @@ namespace Class_Submission_Assignment
             Console.WriteLine("result of division by 2: " + result);
         }
 
-        //// Overloaded method performing division with the use of a double
-        //public void DivideAndPrint(double number)
-        //{
-        //    double result = number / 2;
-        //    Console.WriteLine("result of division by 2: " + result);
-        //}
-
         // method to use an output parameter to achieve the same result
         public void DivideAndReturn(int number, out int result)
         {
