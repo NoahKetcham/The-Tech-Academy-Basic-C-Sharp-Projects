@@ -9,7 +9,6 @@ namespace Abstract_Class_Assignment
     class Program
     {
         // The Main method is the entry point of the application.
-        // It is called by the runtime when the program starts.
         static void Main(string[] args)
         {
             // Create an instance of Employee with the first name "Sample" and the last name "Student".
