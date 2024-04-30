@@ -18,7 +18,7 @@ namespace Methods_And_Objects_Assignment
                 Id = 1                 // Setting employee ID
             };
 
-            // Calling SayName method from the Person class
+            // Calling SayName method 
             employee.SayName();
 
             // Keep the console window open
