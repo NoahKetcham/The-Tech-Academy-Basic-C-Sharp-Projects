@@ -20,7 +20,7 @@ namespace Polymorphism_Assignment
         // Implement the Quit method from the IQuittable interface
         public void Quit()
         {
-            // Output a simple message indicating the employee has quit
+            // Output a message stating the employee has quit
             Console.WriteLine($"{Name} has quit the job!");
         }
     }
