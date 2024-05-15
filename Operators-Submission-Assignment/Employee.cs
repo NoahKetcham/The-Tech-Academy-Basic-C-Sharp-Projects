@@ -28,7 +28,7 @@ namespace Operators_Submission_Assignment
         public static bool operator !=(Employee emp1, Employee emp2)
         {
             // Use the overloaded == operator 
-            return !(emp1.Id != emp2.Id);
+            return (emp1.Id != emp2.Id);
         }
 
         // Override the Equals method to use operator overloading
