@@ -1,0 +1,7 @@
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Parsing-Enums-Assignment\bin\Debug\Parsing-Enums-Assignment.exe.config
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Parsing-Enums-Assignment\bin\Debug\Parsing-Enums-Assignment.exe
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Parsing-Enums-Assignment\bin\Debug\Parsing-Enums-Assignment.pdb
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Parsing-Enums-Assignment\obj\Debug\Parsing-Enums-Assignment.csproj.AssemblyReference.cache
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Parsing-Enums-Assignment\obj\Debug\Parsing-Enums-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Parsing-Enums-Assignment\obj\Debug\Parsing-Enums-Assignment.exe
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Parsing-Enums-Assignment\obj\Debug\Parsing-Enums-Assignment.pdb
