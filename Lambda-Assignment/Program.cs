@@ -25,7 +25,7 @@ namespace Lambda_Assignment
                 new Employee { Id = 10, FirstName = "David", LastName = "Anderson" }
             };
 
-            // Using a foreach loop, create a new list of all employees with the first name "Joe"
+            // Using a foreach loop create a list of all employees with the first name "Joe"
             List<Employee> joesForeach = new List<Employee>();
             foreach (Employee emp in employees)
             {
@@ -35,10 +35,10 @@ namespace Lambda_Assignment
                 }
             }
 
-            // Using a lambda expression, create a new list of all employees with the first name "Joe"
+            // Using a lambda expression create a list of all employees with the first name "Joe"
             List<Employee> joesLambda = employees.Where(emp => emp.FirstName == "Joe").ToList();
 
-            // Using a lambda expression, make a list of all employees with an Id number greater than 5
+            // Using a lambda expression make a list of all employees with an Id number > than 5
             List<Employee> idGreaterThanFive = employees.Where(emp => emp.Id > 5).ToList();
 
             // Display the results
