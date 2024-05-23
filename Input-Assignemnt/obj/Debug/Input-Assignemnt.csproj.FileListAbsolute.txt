@@ -1,0 +1,7 @@
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Input-Assignemnt\bin\Debug\Input-Assignemnt.exe.config
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Input-Assignemnt\bin\Debug\Input-Assignemnt.exe
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Input-Assignemnt\bin\Debug\Input-Assignemnt.pdb
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Input-Assignemnt\obj\Debug\Input-Assignemnt.csproj.AssemblyReference.cache
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Input-Assignemnt\obj\Debug\Input-Assignemnt.csproj.CoreCompileInputs.cache
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Input-Assignemnt\obj\Debug\Input-Assignemnt.exe
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\Input-Assignemnt\obj\Debug\Input-Assignemnt.pdb
