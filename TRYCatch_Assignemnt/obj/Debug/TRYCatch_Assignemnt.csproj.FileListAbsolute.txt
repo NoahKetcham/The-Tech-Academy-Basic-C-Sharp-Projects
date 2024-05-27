@@ -1,0 +1,7 @@
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TRYCatch_Assignemnt\bin\Debug\TRYCatch_Assignemnt.exe.config
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TRYCatch_Assignemnt\bin\Debug\TRYCatch_Assignemnt.exe
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TRYCatch_Assignemnt\bin\Debug\TRYCatch_Assignemnt.pdb
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TRYCatch_Assignemnt\obj\Debug\TRYCatch_Assignemnt.csproj.AssemblyReference.cache
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TRYCatch_Assignemnt\obj\Debug\TRYCatch_Assignemnt.csproj.CoreCompileInputs.cache
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TRYCatch_Assignemnt\obj\Debug\TRYCatch_Assignemnt.exe
+C:\Users\Noah\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\TRYCatch_Assignemnt\obj\Debug\TRYCatch_Assignemnt.pdb
