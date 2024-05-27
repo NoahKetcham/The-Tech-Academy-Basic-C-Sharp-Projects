@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace Casino
 {
     public struct Card
     {
@@ -39,5 +39,4 @@ namespace TwentyOne
         King,
         Ace
     }
-
 }

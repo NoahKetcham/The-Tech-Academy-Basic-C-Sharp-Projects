@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace TwentyOne
+namespace Casino
 {
     public class Dealer
     {
@@ -16,10 +16,11 @@ namespace TwentyOne
         public void Deal(List<Card> Hand)
         {
             Hand.Add(Deck.Cards.First());
-            string card = string.Format(Deck.Cards.First().ToString() + "/n");
+            string card = string.Format(Deck.Cards.First().ToString() + "\n");
             Console.WriteLine(card);
             using (StreamWriter file = new StreamWriter(@"C:\Users\noah\documents\log.txt", true))
             {
+                file.WriteLine(DateTime.Now);
                 file.WriteLine(card);
             }
             Deck.Cards.RemoveAt(0);
